@@ -8,7 +8,7 @@
 
 |**Day :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
-|Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Data Visualization with Advanced Excel - by PWC](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
+|Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Data Visualization with Advanced Excel - by PWC](https://coursera.org/share/064db4645159df788ad0b31abebf1556)| [Excel Full Course for Beginners - by simplilearn] (https://www.youtube.com/watch?v=5ABOjWLMu4c&list=PLEiEAq2VkUUKf8aLrspLg3zuyJ5S-5K5S)
 |Day 2| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [YouTube](https://www.youtube.com/watch?v=RdTozKPY_OQ&t=3658s) :white_check_mark:|
 |Day 3| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) |  [YouTube 1](https://www.youtube.com/watch?v=zg9ih6SVACc)| 
